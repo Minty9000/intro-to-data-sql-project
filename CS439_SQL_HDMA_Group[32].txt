@@ -5,4 +5,9 @@ Gilbert:
     4.Also helped finalize the code and make sure everything merged properly and ran smoothly.
     
 Kareena:
-    
+   1. Completed Task 2, checking the stats, storing them and plotting as required.
+   2. Merged files together in the end to ensure everything is together and can be submitted.
+
+Shaan:
+   1. Completed parts 4 and 5, detection of certain applicants and SQL Table with this information, creating scatter plot
+   
