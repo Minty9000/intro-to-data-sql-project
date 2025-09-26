@@ -1,6 +1,8 @@
 Gilbert:
     1.Downloaded files and setup the github as well as functionality of the github such as the ignore of csv and zip files.
-    2. Finished task 1
+    2.Finished task 1 with setting up the imports, extracting data from the zip file, and cleaning up the data
+    3.Finished task 3 with setting up SQL server names project with no password to prevent leaked data
+    4.Also helped finalize the code and make sure everything merged properly and ran smoothly.
+    
 Kareena:
     
-
