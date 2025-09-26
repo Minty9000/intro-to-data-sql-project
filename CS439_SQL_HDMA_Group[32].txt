@@ -9,5 +9,6 @@ Kareena:
    2. Merged files together in the end to ensure everything is together and can be submitted.
 
 Shaan:
-   1. Completed parts 4 and 5, detection of certain applicants and SQL Table with this information, creating scatter plot
+   1. Completed part 4, detection of certain applicants and SQL Table with this information, 
+   2. Completed part 5, creating scatter plots for high risk states
    
