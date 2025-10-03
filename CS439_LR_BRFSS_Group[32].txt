@@ -3,7 +3,9 @@ Gilbert Teng:
 1. Worked on the linearRegression.py and setup the github 
 2. helped test and merge everything to make sure it works
 
-Karena:
+Kareena:
+1. Worked on the regression health function
+2. Worked on project structure
 
 Shaan:
 1. Helped on the regression health function
